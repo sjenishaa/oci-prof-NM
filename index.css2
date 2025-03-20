@@ -1,0 +1,12 @@
+/* styles.css */
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+.hidden {
+  display: none;
+}
+.error {
+  color: red;
+}
+
